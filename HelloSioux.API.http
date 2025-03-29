@@ -1,0 +1,6 @@
+@HelloSioux.API_HostAddress = http://localhost:5001
+
+GET {{HelloSioux.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
